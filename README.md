@@ -33,16 +33,6 @@ This repository is intended for engineers, developers, architects, and technical
 Start with the collaboration framework to understand the underlying methodology and process model.  
 Then use the templates as practical tools to apply the approach in daily project work.
 
-## Structure
-
-```text
-.
-├── 1-human-ai-collaboration
-│   └── README.md
-└── 2-human-ai-templates
-    └── README.md
-
-
 ## License
 
 This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
