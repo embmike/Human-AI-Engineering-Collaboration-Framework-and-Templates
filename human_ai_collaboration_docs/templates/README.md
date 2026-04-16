@@ -6,7 +6,7 @@ Provide a reusable starter kit for the next project so human preparation and AI 
 
 This folder is the practical companion to:
 
-- [Human-AI Collaboration](../10-human-ai-collaboration/README.md)
+- [Collaboration](../collaboration/README.md)
 
 The collaboration chapter explains the lessons learned from this project.
 

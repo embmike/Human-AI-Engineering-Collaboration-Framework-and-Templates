@@ -99,18 +99,18 @@ This chapter provides exactly that set for the current project.
 
 For the reusable, project-neutral starter kit, see:
 
-- [Human-AI Templates](../11-human-ai-templates/README.md)
+- [Templates](../templates/README.md)
 
 The most practical companion files are:
 
-- [ai_project_preflight_checklist.md](../11-human-ai-templates/ai_project_preflight_checklist.md)
-- [ai_work_package_brief.template.md](../11-human-ai-templates/ai_work_package_brief.template.md)
-- [ai_test_case_brief.template.md](../11-human-ai-templates/ai_test_case_brief.template.md)
+- [ai_project_preflight_checklist.md](../templates/ai_project_preflight_checklist.md)
+- [ai_work_package_brief.template.md](../templates/ai_work_package_brief.template.md)
+- [ai_test_case_brief.template.md](../templates/ai_test_case_brief.template.md)
 
 For daily operation of the process, continue with:
 
-- [human_ai_project_handbook.md](../11-human-ai-templates/human_ai_project_handbook.md)
-- [human_ai_process_flow.md](../11-human-ai-templates/human_ai_process_flow.md)
+- [human_ai_project_handbook.md](../templates/human_ai_project_handbook.md)
+- [human_ai_process_flow.md](../templates/human_ai_process_flow.md)
 
 ## Files In This Folder
 
