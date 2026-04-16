@@ -1,37 +1,94 @@
 # Human-AI Engineering Collaboration Framework and Templates
 
-This repository provides a structured approach for effective collaboration between humans and AI in engineering projects.  
-It combines a collaboration framework with practical templates to support planning, execution, review, and continuous improvement.
+A practical framework for structuring collaboration between humans and AI in engineering projects.
 
-The goal is to enable a transparent, reproducible, and high-quality development process in which human expertise and AI capabilities complement each other.
+This repository helps teams use AI in a controlled, transparent, and high-quality way.  
+Instead of relying on trial and error, it introduces a clear working model:
 
-## Overview
+- the human defines the frame
+- the AI works inside that frame
+- quality gates make progress and uncertainty visible
+- templates make the process reusable across projects
 
-The reusable Human-AI documentation is located in [`human_ai_collaboration_docs`](./human_ai_collaboration_docs/).
+## Why this repository exists
 
-### 1. [Collaboration](./human_ai_collaboration_docs/collaboration/README.md)
+AI can accelerate engineering work significantly.  
+But without a clear project frame, defined responsibilities, and explicit review points, AI-supported work often becomes inconsistent, correction-heavy, and difficult to validate.
 
-This section describes the collaboration framework between human and AI.  
-It explains roles, responsibilities, workflows, quality gates, and the principles for using AI as a supporting engineering partner in a structured development process.
+This repository was created to address exactly that problem.
 
-### 2. [Templates](./human_ai_collaboration_docs/templates/README.md)
+It provides a reusable approach for Human-AI collaboration that supports:
 
-This section contains practical templates for applying the framework in real projects.  
-It provides reusable artifacts, structured prompts, checklists, and documentation patterns that help standardize and accelerate Human-AI collaboration.
+- project framing
+- architecture and workflow alignment
+- bounded AI execution
+- quality-gate-based progress
+- reusable templates for repeatable engineering work
 
-## Purpose
+## What this framework provides
 
-This repository is intended for engineers, developers, architects, and technical teams who want to:
+The repository combines two complementary parts:
 
-- establish a clear Human-AI collaboration model
-- improve project preparation and execution
-- use templates for consistent engineering artifacts
-- increase transparency, traceability, and quality in AI-supported development
+### [Collaboration](./human_ai_collaboration_docs/collaboration/README.md)
 
-## How to Use
+Defines the Human-AI collaboration model.
 
-Start with the collaboration framework to understand the underlying methodology and process model.  
-Then use the templates as practical tools to apply the approach in daily project work.
+It describes:
+
+- roles and responsibilities
+- project framing
+- quality gates
+- preparation rules before AI execution
+- guidance for how humans and AI should work together during engineering projects
+
+### [Templates](./human_ai_collaboration_docs/templates/README.md)
+
+Provides the reusable operating kit for applying the framework in real projects.
+
+It includes:
+
+- checklists
+- prompts
+- work-package briefs
+- test-case briefs
+- JSON templates for project framing
+- recovery and process-support documents
+
+## Core idea
+
+The central idea is simple:
+
+> The human should define the frame.  
+> The AI should execute inside that frame.  
+> Both should use visible quality gates to manage uncertainty.
+
+This makes AI-supported engineering more:
+
+- structured
+- reproducible
+- reviewable
+- scalable across projects
+
+## Who this is for
+
+This repository is intended for:
+
+- engineers
+- embedded developers
+- software developers
+- architects
+- technical leads
+- teams experimenting with AI-assisted development in a more disciplined way
+
+It is especially useful when you want to move from ad-hoc prompting to a more explicit engineering process.
+
+## Quick Start
+
+1. Open the [Collaboration](./human_ai_collaboration_docs/collaboration/README.md) section to understand the process model.
+2. Continue with the [Templates](./human_ai_collaboration_docs/templates/README.md) section to access the reusable artifacts.
+3. Copy `human_ai_collaboration_docs/` into your project if you want to use the framework as a portable starter kit.
+4. Begin with the preflight checklist and the first work-package brief.
+5. Run the process gate by gate.
 
 ## Repository Structure
 
