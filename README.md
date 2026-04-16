@@ -9,12 +9,12 @@ The goal is to enable a transparent, reproducible, and high-quality development 
 
 The repository is organized into two main parts:
 
-### 1. [Human-AI Collaboration](./1-human-ai-collaboration/README.md)
+### 1. [Human-AI Collaboration](./docs/1-human-ai-collaboration/README.md)
 
 This section describes the collaboration framework between human and AI.  
 It explains roles, responsibilities, workflows, quality gates, and the principles for using AI as a supporting engineering partner in a structured development process.
 
-### 2. [Human-AI Templates](./2-human-ai-templates/README.md)
+### 2. [Human-AI Templates](./docs/2-human-ai-templates/README.md)
 
 This section contains practical templates for applying the framework in real projects.  
 It provides reusable artifacts, structured prompts, checklists, and documentation patterns that help standardize and accelerate Human-AI collaboration.
