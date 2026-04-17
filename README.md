@@ -1,5 +1,7 @@
 # Human-AI Engineering Collaboration Framework and Templates
 
+<img src="humai_forge.png" style="width: 17%; float: left; margin-right: 15px;" alt="Logo Humai Forge">
+
 A practical framework for structuring collaboration between humans and AI in engineering projects.
 
 This repository helps teams use AI in a controlled, transparent, and high-quality way.  
